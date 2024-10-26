@@ -1,4 +1,6 @@
 # Mouse cursor coordinates
+[![License](https://img.shields.io/github/license/Batacek/Cords)](LICENSE)
+[![Lang](https://img.shields.io/badge/Language-Python-green)](Lang)
 <p>This simple Python script displays the coordinates of your mouse cursor. It can be used for automation purposes, allowing you to move with your mouse cursor to identify the necessary coordinates. Additionally, the program can be utilized as a screen resolution detector by running the program and then pointing the cursor into the right bottom corner. To obtain the resolution, simply add +1 to each number. For instance, 1919 1019 is 1920x1080.</p>
 
 # Packages
